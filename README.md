@@ -1,2 +1,2 @@
 # GuideSQL
-The code will be released soon.
+You can follow the PG-GSQL from https://github.com/cfhaiteeh/PG-GSQL
